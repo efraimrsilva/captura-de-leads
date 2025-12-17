@@ -22,14 +22,14 @@ Este é um projeto de landing page simples e responsiva. A página apresenta um 
 
 ## ▶️ Como Usar
 
-Entre no site: [Captura de Leads](https://captura-de-leads-efrals.netlify.app)
+Entre no site: [Captura de Leads](https://capturadeleads-efraimrsilva.netlify.app)
 
 OU
 
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/Efrals/captura-de-leads.git
+   git clone https://github.com/efraimrsilva/captura-de-leads.git
    ```
 
 2. Navegue até a pasta do projeto
